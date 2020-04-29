@@ -16,3 +16,33 @@
         left: 129px;
     }
   }
+
+  video {
+    width: 100%;
+    height: auto;
+  }
+
+  #wish-card{
+      display:none;
+    width: 100%;
+    height: auto;
+  }
+  
+#wish-img-id{
+    width: 100%;
+    height: auto;
+}
+
+#sig-name{
+    display: none;
+}
+#sig-div{
+    display:none;
+  width: 100%;
+  height: auto;
+}
+
+#sig-img-id{
+  width: 100%;
+  height: auto;
+}
