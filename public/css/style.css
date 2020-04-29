@@ -2,3 +2,17 @@
     max-width: 100%;
     height: 100%;
 }
+
+#playbtn-id{
+    position: absolute;
+    top: 255px;
+    left: 146px;
+    max-width: 24%;
+    height: 15%;
+}
+
+@media only screen and (max-width: 325px) {
+    #playbtn-id {
+        left: 129px;
+    }
+  }
