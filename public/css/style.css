@@ -11,10 +11,25 @@
     height: 15%;
 }
 
+#play-me{
+    position: absolute;
+    top: 360px;
+    left: 146px;
+    font-family: cursive;
+    font-size: 22px;
+    font-weight: bold;
+    color: brown;
+}
+
 @media only screen and (max-width: 325px) {
     #playbtn-id {
         left: 129px;
     }
+    #play-me {
+        top: 340px;
+        left: 124px;
+    }
+   
   }
 
   video {
@@ -46,3 +61,5 @@
   width: 100%;
   height: auto;
 }
+
+
